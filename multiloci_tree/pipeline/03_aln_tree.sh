@@ -31,3 +31,4 @@ clipkit aln/ALL_ITS_full_LSU.fasaln
 
 # Tree build
 FastTreeMP -nt -gamma aln/ALL_ITS_full_LSU.fasaln.clipkit > aln/Rhodotorula_ITS_LSU.fasaln.tre
+
