@@ -21,5 +21,11 @@ unique_to_spreadsheet_two = unique_barcodes_spreadsheet_two.difference(combined_
 # Filter the entire line corresponding to unique barcodes in spreadsheet two
 unique_lines = df2[df2["Barcode"].isin(unique_to_spreadsheet_two)]
 
+# Filter the entire line corresponding to non-unique barcodes in spreadsheet two
+non_unique_lines = df2[~df2["Barcode"].isin(unique_to_spreadsheet_two)]
+
 # Write the unique lines to a file
 unique_lines.to_csv("unique_barcodes.csv", index=False)
+
+# Write the non-unique lines to a file
+non_unique_lines.to_csv("non_unique_barcodes.csv", index=False)
