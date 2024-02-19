@@ -1,0 +1,200 @@
+__________ prevent transcription, whereas __________ stimulate transcription.
+a. Activators; repressors
+b. Inducers; corepressors
+c. Corepressors; inducers
+d. Regulators; repressors
+e. Repressors; activators
+
+What is the source of energy that directly drives the ATP synthase enzyme?
+a. Glucose
+b. Pyruvate
+c. Facilitated diffusion
+d. Phosphoenolpyruvate
+e. Proton gradient
+
+How do aerobic species deal with cumulative molecular damage due to reactive oxygen species?
+a. Rapid growth
+b. Enzymatic detoxification of ROS species
+c. Sporulation
+d. Motility away from oxygen gradient
+e. Siderophore translocation of key ions
+
+We call the phenomenon where the presence of a preferred nutrient inhibits the expression of genes that metabolize another nutrient _______.
+a. activation
+b. recombination
+c. catabolite repression
+d. diauxic growth
+
+A bacterium that uses the breakdown of organic molecules for energy, and inorganic electron donors, and can fix CO2 to form complex macromolecules is a: _____
+a. bradytroph
+b. photo-litho-autotroph
+c. chemo-litho-autotroph
+d. chemo-litho-heterotroph
+e. photo-organo-heterotroph
+
+MacConkey agar can promote the growth of Gram-Negatives while inhibiting the growth of Gram-Positives. In this role, it is acting as a ______ medium.
+a. minimal
+b. complex
+c. rich
+d. selective
+e. differential
+
+Which of the following donates electrons to ETS?
+a. NAD+		
+b. pyruvate		
+c. Acetyl-CoA
+d. NADH
+e. O2
+
+The part of the promoter in operons like lac bound by repressors is the _____.
+a. -10 region
+b. -35 region
+c. transcriptional terminator
+d. operator
+e. Shine-Dalgarno sequence
+
+A holorepressor consists of ____.
+a. an inducer and an activator
+b. an inducer and a repressor
+c. a co-repressor and a regulator
+d. multiple subunits of a regulator
+e. a co-inducer and an activator
+
+Repressor of lac gene expression
+a. LacI
+b. Allolactose
+c. LacZ
+d. LacY
+e. LacA
+
+Inducer that modifies LacI binding
+a. Lactose
+b. Allolactose
+c. Glucose
+d. LacZ
+e. LacY
+
+Transporter of lactose into the cell
+a. LacZ
+b. LacO
+c. LacA
+d. LacY
+e. EII
+
+What does PTS interact with during inducer exclusion?
+a. LacI
+b. LacZ
+c. LacA
+d. LacY
+e. adenylate cyclase
+
+What is the doubling time in minutes of the organism with the above semilog growth curve?
+a. 10
+b. 30
+c. 60
+d. 90
+e. 120
+
+Which of the following is a reason cells use fermentation over respiration?
+a. Fermentation generates more ATP than respiration from a given nutrient molecule
+b. Glycolysis is more efficient at glucose breakdown in fermentation
+c. Fermentation does not need a terminal electron acceptor
+d. Fermentation rapidly generates ATP as long as nutrients are available
+e. Fermentation generates alcohol
+
+In aerobic respiration, what serves as the terminal electron acceptor?
+a. Water
+b. Oxygen
+c. CO2
+d. pyruvate
+e. CRP
+
+How is NAD+ regenerated in fermentation?
+a. The TCA cycle
+b. NADH donates electrons to pyruvate
+c. NAD+ is synthesized as part of glycolysis
+d. The ETS provides electrons to NADH
+
+What is the CFU/ml?
+a. 1.2x105 CFU/ml
+b. 1.2 x106 CFU/ml
+c. 1.7 x 105 CFU/ml
+d. 1.7 x104 CFU/ml
+e. 6.8 x105 CFU/ml
+
+If the amount of each dilution plated was 100ul (or 0.1ml) instead of 1ml, what would be the CFU/ml?
+a. 1.2x105 CFU/ml
+b. 1.2 x106 CFU/ml
+c. 1.7 x 105 CFU/ml
+d. 1.7 x104 CFU/ml
+e. 6.8 x105 CFU/ml
+
+Where on this dilution streak pattern would you pick a colony to begin a pure culture?
+a. A
+b. B
+c. C
+d. D
+
+A mutant strain has all the tryptophan-encoding codons of the leader peptide gene of the trp operon replaced with isoleucine-encoding codons. What happens to transcriptional attenuation in this mutant strain under conditions of intermediate levels of tryptophan and high levels of isoleucine? 
+a. no transcriptional initiation because the repressor is on the promoter
+b. transcriptional attenuation depends on the level of tryptophan
+c. transcriptional attenuation is typically active
+d. transcriptional attenuation is not active because the tryptophan levels are sufficient for growth
+
+Which of the following statements accurately describes the function of the anti-attenuator loop in trp operon attenuation?
+a. The anti-attenuator forms and prevents the formation of the attenuator loop
+b. The anti-attenuator causes premature termination of transcription
+c. The anti-attenuator causes the ribosome to pause during translation
+d. The anti-attenuator interacts with the attenuator loop to terminate transcription
+
+If loop 4 of the attenuator in the trp operon is removed, what would happen to regulation of gene expression of this operon?
+a. The leader peptide would never be translated
+b. The repressor would be unable to bind the promoter
+c. The attenuator loop would never form, so attenuation would not occur
+d. The attenuator loop would always form, and attenuation would always be active
+
+The histidine-dependent test strain of the Ames test is acting as:
+a. a bradytroph
+b. an auxotroph
+c. an autotroph
+d. a heterotroph
+e. an endosymbiont
+
+The anti-sigma factor in control of early sporulation by sigma F _____
+a. Degrades the anti-anti-sigma factor AA
+b. Degrades itself when interacting with sigma F
+c. Is stabilized by AA
+d. Inhibits the function of sigma F
+
+Alternative sigma factors __________
+a. Degrade housekeeping sigma factors
+b. Guide RNA polymerase to specific sets of promoters
+c. Affect the translation rate
+d. Causes RNA polymerase to fall off of promoters
+
+A transcript of a constitutively-transcribed bacterial gene contains a putative RNA hairpin within its 5’ untranslated region seen above. The region with asterisks (*) indicate the Shine-Dalgarno sequence. As growth temperature is increased, how do you expect the levels of the encoded protein to change?
+a. increase, due to increased transcription
+b. increase, due to increased recruitment of ribosomes
+c. decrease, due to premature termination of transcription
+d. decrease, due degradation of the transcript
+
+Mutating the underlined bases to U’s would likely make the transcript _______.
+a. translated at all temperatures
+b. not translated at any temperatures
+c. degraded
+d. be transcribed at a higher level
+e. fall off RNA polymerase
+
+A small molecule binds to a transcription factor, causing the protein to bind an operator sequence to reduce transcription rate. The small molecule in this case is acting as ________
+a. an inducer
+b. an enzyme
+c. a holo-repressor
+d. a catabolite
+e. a co-repressor
+
+Which of the following accurately describes transcriptional attenuation in trp operon regulation?
+a. Attenuation accelerates transcription rate
+b. Attenuation is active at high tryptophan levels
+c. Attenuation is off at very low trptophan levels
+d. Attenuation blocks translation of the leader peptide
+e. Attenuation responds to glucose levels
